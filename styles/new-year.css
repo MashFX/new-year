@@ -1,0 +1,228 @@
+/* header styles */
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.header{
+   
+   
+}
+.banner{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    display: 100%;
+    width: 100%;
+    
+    
+    
+   
+    
+    
+}
+.banner-image{
+    width:100%;
+}
+.banner-title{
+   
+    display:block;
+    font-weight: 700;
+    font-size: 65px;
+    color: #151414;
+    text-align: right;
+    
+    top: 100%;
+    
+   
+}
+.banner-description{
+    text-align: right;
+   
+    top: 50%;
+    left: 70%;
+    
+    font-size: 16px;
+    margin-bottom: 20px;
+    color: #444343;
+    
+
+}
+/* button styles */
+.btn-primary{
+    color: #FFFFFF;
+    background: #FD6E0A;
+    width: 160px;
+    height: 64px;
+    justify-content: right;
+    
+    
+    position: absolute;
+    top: 60%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+}
+/* main styles aka failure styles */
+.failure{
+    left:50%
+    bottom: 60%;
+   
+
+}
+.failure-list{
+   justify-content: right;
+
+}
+.failure-image{
+   right: 20%;
+   
+    
+    
+    
+}
+.failure-title{
+
+    
+    display:flex;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    
+    justify-content: right;
+   
+    top: 130%;
+    left: 55%;
+    
+    
+    
+    
+    
+    
+    
+}
+.failure-description{
+    margin: 24px;
+    color: #444343;
+    text-align: right;
+    
+    top: 100% ;
+    left:55%;
+
+    
+    justify-content: right;
+    font-weight: 200;
+    
+    font-size: 18px;
+   
+}
+
+.ul,li:before{
+    
+    content: '✓';
+    color: blue;
+    
+    
+
+
+
+}
+.
+/* My plans styles */
+.my-plans{
+    margin-top: 130px;
+
+}
+.section-title{
+    text-align: center;
+    
+    margin-bottom: 50px;
+    font-weight: 700;
+    font-size: 35px;
+
+}
+
+.skill{
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    padding: 30px;
+}
+.skill-container{
+    display:flex;
+
+}
+
+.skill-title{
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.skill-description{
+    color: #757575;
+    
+}
+/* appointment styles */
+.appointment-section{
+    
+    padding: 15px;
+    background:linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+    
+    justify-content: center;
+    align-items:center;
+    margin: auto;
+    border-radius: 8px;
+    
+    width: 1140px;
+    height: 300px;
+    left: 290px;
+    top: 2216.3px
+    color: white;
+}
+.appointment-title{
+   
+    top:20%;
+    font-weight: 300;
+    font-size: 25px;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 10px;
+    
+}
+.appointment-btn{
+    color: #F15B22;
+    
+    padding: 10px 20px;
+    border-radius: 10px;
+    top: 50%;
+    left: 5%;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 20px;
+    text-align: center;
+    justify-content: left;
+    
+    background: #FFFFFF;
+
+      
+   
+}
+.footer{
+   
+    
+    width: 100%;
+    background: #151414;
+   
+    
+    
+}
+.footer.container{
+    
+}
+.footer.title{
+    font-weight: 700;
+    font-size: 45px;
+    color: #F8F8F8;
+}
+
+ 
